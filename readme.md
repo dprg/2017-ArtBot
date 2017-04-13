@@ -18,3 +18,4 @@ The packages: Dot Factory, Image Magik, and F-engrave are not included. These pa
 
 The repository includes Inkscape files for laser cut parts, and Design Spark Mechanical and .stl files for 3D printed parts.
 
+![DPRG 2017-ArtBot](/ArtBot.jpg)
